@@ -1,5 +1,6 @@
 for more details LZW :-https://www.algorithmat.com//displaycontent.aspx?cnt=7
-fro more details HUFFMAN :-https://www.algorithmat.com//displaycontent.aspx?cnt=8
+
+for more details HUFFMAN :-https://www.algorithmat.com//displaycontent.aspx?cnt=8
 Lossless Compression
 Lossless compression schemes compress the data without loss of information, and the original data can be recovered exactly from the compressed data
 
