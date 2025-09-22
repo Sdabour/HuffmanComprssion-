@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Huffman.HuffmanCompressedFile">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>HuffmanCompressedFile.cs</FileName>
+      <HashCode>AgAAAAgAEAAAAAAAAAAAAAAAAAAAABAAICAAgIAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Huffman.HuffmanDisplayedBiz">
+    <Position X="6.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>HuffmanDisplayedBiz.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAIAgAIAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_SymbolBiz" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Huffman.HuffmanDisplayedCol">
+    <Position X="5.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <FileName>HuffmanDisplayedCol.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Huffman.HuffmanSymbolBiz">
+    <Position X="11" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>HuffmanSymbolBiz.cs</FileName>
+      <HashCode>IAABAAAAGAAAAAAAAAAgAIYAAgAgBAgAAIIAAAFEAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Huffman.HuffmanSymbolCol">
+    <Position X="8.5" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>HuffmanSymbolCol.cs</FileName>
+      <HashCode>AAIAQAAEAAAABIEQEABEAiIAAgAwAAWAIACAggIEAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="Huffman.HandleControlEvent" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmHuffman.cs</FileName>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Delegate>
+</ClassDiagram>

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LZW.frmLZW.resources
+obj\Debug\LZW.Properties.Resources.resources
+obj\Debug\LZW.csproj.GenerateResource.Cache
+bin\Debug\LZW.exe
+bin\Debug\LZW.pdb
+obj\Debug\LZW.exe
+obj\Debug\LZW.pdb
+obj\Debug\LZW.frmDisplayCompressedUncompressed.resources
+obj\Debug\LZW.frmDisplayParameters.resources

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LZW.LZWCompressedFile">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAiAAAQAAAAAAAAEACAgAIAAAgAAAAAA=</HashCode>
+      <FileName>LZWCompressedFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LZW.LZWDisplayedBiz">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAA=</HashCode>
+      <FileName>LZWDisplayedBiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LZW.LZWDisplayedCol">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>LZWDisplayedCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LZW.LZWSymbolBiz">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAAAAAAAAgAAACAAAAAAAABAAAAEAAAAAAAA=</HashCode>
+      <FileName>LZWSymbolBiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LZW.LZWSymbolCol">
+    <Position X="7.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAgAQCAAgEAAAgAAADBgAIAEAgIACACA=</HashCode>
+      <FileName>LZWSymbolCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
